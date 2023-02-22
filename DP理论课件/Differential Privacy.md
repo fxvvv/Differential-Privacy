@@ -57,7 +57,7 @@ $Pr[M(X)\in T]\leq e^\epsilon Pr[M(X^*)\in T]，T\subseteq Y$
 
    简单描述：在函数基础上加入与函数敏感性等比的噪音，噪音是Laplace($\delta/\epsilon$) random variables
 
-![f02916e7ac32ebaa5510e3f944edcf4](C:\Users\ROG\Desktop\f02916e7ac32ebaa5510e3f944edcf4.jpg)
+![f02916e7ac32ebaa5510e3f944edcf4](f02916e7ac32ebaa5510e3f944edcf4.jpg)
 
 
 
